@@ -1,1 +1,6 @@
 secrets.py
+.DS_Store
+.envrc
+.direnv
+__pycache__
+.ipynb_checkpoints
